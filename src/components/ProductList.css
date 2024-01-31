@@ -1,0 +1,19 @@
+/* ProductList.css */
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.product-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+  max-width: 200px;
+}
+
+.product-item img {
+  max-width: 100%;
+  height: auto;
+}

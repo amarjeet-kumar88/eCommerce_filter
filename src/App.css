@@ -1,0 +1,16 @@
+/* App.css */
+
+.app {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+body, h1, h2, h3, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+}
